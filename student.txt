@@ -1,2 +1,3 @@
 Name: Jeshu Denzil Deve
 Course: Gen AI
+Skills: Python, SQL
